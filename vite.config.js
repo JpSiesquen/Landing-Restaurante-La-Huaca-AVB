@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/Bolt-Landing-Restaurante---PROB-ANTIGRAVITY/',
+  base: process.env.GITHUB_PAGES === 'true' ? '/Bolt-Landing-Restaurante---PROB-ANTIGRAVITY/' : '/',
 });
