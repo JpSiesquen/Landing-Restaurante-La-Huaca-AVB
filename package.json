@@ -2,6 +2,7 @@
   "name": "landing-restaurante-la-huaca-avb",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://jpsiesquen.github.io/Landing-Restaurante-La-Huaca-AVB/",
   "type": "module",
   "scripts": {
     "dev": "vite",
